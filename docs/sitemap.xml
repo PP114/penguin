@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pp114.github.io/penguin/categories.html</loc>
+    <loc>https://pp114.github.io/categories.html</loc>
   </url><url>
-    <loc>https://pp114.github.io/penguin/js/loop_anim.html</loc>
+    <loc>https://pp114.github.io/js/loop_anim.html</loc>
     <lastmod>2021-12-14T14:12:42+08:00</lastmod>
   </url><url>
-    <loc>https://pp114.github.io/penguin/js/mdprimer.html</loc>
+    <loc>https://pp114.github.io/js/mdprimer.html</loc>
     <lastmod>2021-12-14T14:12:42+08:00</lastmod>
   </url><url>
-    <loc>https://pp114.github.io/penguin/tags.html</loc>
+    <loc>https://pp114.github.io/js/myfirstlog.html</loc>
+    <lastmod>2021-12-14T15:55:19+08:00</lastmod>
   </url><url>
-    <loc>https://pp114.github.io/penguin/js/firstjs.html</loc>
+    <loc>https://pp114.github.io/tags.html</loc>
+  </url><url>
+    <loc>https://pp114.github.io/js/firstjs.html</loc>
     <lastmod>2021-12-14T14:45:50+08:00</lastmod>
   </url><url>
-    <loc>https://pp114.github.io/penguin/js/%E6%A8%A1%E6%9D%BF.html</loc>
+    <loc>https://pp114.github.io/js/%E6%A8%A1%E6%9D%BF.html</loc>
     <lastmod>2021-12-14T14:12:42+08:00</lastmod>
   </url><url>
-    <loc>https://pp114.github.io/penguin/js.html</loc>
+    <loc>https://pp114.github.io/js.html</loc>
     <lastmod>2021-12-14T14:12:42+08:00</lastmod>
   </url><url>
-    <loc>https://pp114.github.io/penguin/</loc>
+    <loc>https://pp114.github.io/</loc>
     <lastmod>2021-12-14T14:12:42+08:00</lastmod>
   </url>
 </urlset>
