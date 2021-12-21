@@ -1,0 +1,44 @@
+---
+title: fghfj
+---
+```
+<script>
+console.log("我是主控台")
+document.write("我是html文件")
+</script>
+```
+上面第一行是寫到主控台
+
+第二行是寫道文件
+
+## 後面試程式碼執行結果
+<script>
+console.log("我是主控台")
+document.write("我是html文件")
+</script>
+
+##甚麼是javasprict函數
+<script>
+funtion print()
+(
+message="HELLO"
+console.log(message)
+)
+funtion print1()
+{
+message="HELLO"
+console.log(message)
+}
+funtion print2()
+{
+message="HELLO"
+console.log(message)
+}
+</sprict>
+
+<sprict>
+funtion add1(argl)
+{result=argl+1
+return(result)
+}
+</script>
